@@ -1,0 +1,14 @@
+{
+	"name": "assignment 5",
+	"version": "1.0.0",
+	"description": "something something",
+	"main": "server.js",
+	"author": "michael",
+	"license": "Apache 2.0",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.4",
+		"sqlite3": "^4.0.4"
+	},
+	"devDependencies": {}
+}
